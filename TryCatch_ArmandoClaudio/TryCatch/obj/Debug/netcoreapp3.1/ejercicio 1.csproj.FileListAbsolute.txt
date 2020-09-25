@@ -1,0 +1,16 @@
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\bin\Debug\netcoreapp3.1\ejercicio 1.exe
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\bin\Debug\netcoreapp3.1\ejercicio 1.deps.json
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\bin\Debug\netcoreapp3.1\ejercicio 1.runtimeconfig.json
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\bin\Debug\netcoreapp3.1\ejercicio 1.runtimeconfig.dev.json
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\bin\Debug\netcoreapp3.1\ejercicio 1.dll
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\bin\Debug\netcoreapp3.1\ejercicio 1.pdb
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\obj\Debug\netcoreapp3.1\ejercicio 1.csprojAssemblyReference.cache
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\obj\Debug\netcoreapp3.1\ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\obj\Debug\netcoreapp3.1\ejercicio 1.AssemblyInfo.cs
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\obj\Debug\netcoreapp3.1\ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\obj\Debug\netcoreapp3.1\ejercicio 1.csproj.CopyComplete
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\obj\Debug\netcoreapp3.1\ejercicio 1.dll
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\obj\Debug\netcoreapp3.1\ejercicio 1.pdb
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\TryCatch\obj\Debug\netcoreapp3.1\ejercicio 1.genruntimeconfig.cache

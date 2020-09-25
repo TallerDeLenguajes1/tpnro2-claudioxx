@@ -1,0 +1,16 @@
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\bin\Debug\netcoreapp3.1\Empleado.exe
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\bin\Debug\netcoreapp3.1\Empleado.deps.json
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\bin\Debug\netcoreapp3.1\Empleado.runtimeconfig.json
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\bin\Debug\netcoreapp3.1\Empleado.runtimeconfig.dev.json
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\bin\Debug\netcoreapp3.1\Empleado.dll
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\bin\Debug\netcoreapp3.1\Empleado.pdb
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\obj\Debug\netcoreapp3.1\Empleado.csprojAssemblyReference.cache
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\obj\Debug\netcoreapp3.1\Empleado.AssemblyInfoInputs.cache
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\obj\Debug\netcoreapp3.1\Empleado.AssemblyInfo.cs
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\obj\Debug\netcoreapp3.1\Empleado.dll
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\obj\Debug\netcoreapp3.1\Empleado.pdb
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\obj\Debug\netcoreapp3.1\Empleado.genruntimeconfig.cache
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\obj\Debug\netcoreapp3.1\Empleado.csproj.CopyComplete
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\bin\Debug\netcoreapp3.1\NLog.config
+C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Empleado\obj\Debug\netcoreapp3.1\Empleado.csproj.CoreCompileInputs.cache

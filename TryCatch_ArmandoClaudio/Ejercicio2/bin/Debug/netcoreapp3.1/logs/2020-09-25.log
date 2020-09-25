@@ -1,0 +1,26 @@
+2020-09-25 16:54:35.7327 ERROR se profujo System.DivideByZeroException
+ 
+2020-09-25 17:00:19.7777 ERROR se profujo System.DivideByZeroException
+ Division en 0
+2020-09-25 17:03:39.7223 ERROR se profujo System.DivideByZeroException
+ Division en 0
+2020-09-25 17:04:32.6789 ERROR se profujo    at Ejercicio2.Program.Main(String[] args) in C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Ejercicio2\Program.cs:line 19
+ Division en 0
+2020-09-25 17:06:12.0263 ERROR se profujo Attempted to divide by zero.
+ Division en 0
+2020-09-25 17:06:27.1913 ERROR se profujo System.DivideByZeroException: Attempted to divide by zero.
+   at Ejercicio2.Program.Main(String[] args) in C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Ejercicio2\Program.cs:line 19
+ Division en 0
+2020-09-25 17:07:39.7124 ERROR se profujo System.DivideByZeroException: Attempted to divide by zero.
+   at Ejercicio2.Program.Main(String[] args) in C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Ejercicio2\Program.cs:line 19
+ *****DIVISION EN 0*****
+2020-09-25 17:11:22.1408 ERROR se profujo System.DivideByZeroException: Attempted to divide by zero.
+   at Ejercicio2.Program.Main(String[] args) in C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Ejercicio2\Program.cs:line 19
+ *****DIVISION EN 0*****
+2020-09-25 17:12:03.5410 ERROR se profujo System.DivideByZeroException: Attempted to divide by zero.
+   at Ejercicio2.Program.Main(String[] args) in C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Ejercicio2\Program.cs:line 19
+ *****DIVISION EN 0*****
+2020-09-25 17:17:32.2763 ERROR 
+se profujo System.DivideByZeroException: Attempted to divide by zero.
+   at Ejercicio2.Program.Main(String[] args) in C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Ejercicio2\Program.cs:line 19
+ *****DIVISION EN 0*****

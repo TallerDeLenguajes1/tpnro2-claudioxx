@@ -1,0 +1,29 @@
+2020-09-18 18:34:16.7582 ERROR se profujo System.DivideByZeroException
+2020-09-18 18:35:38.7412 ERROR se profujo System.DivideByZeroException
+2020-09-18 18:37:15.4377 INFO se profujo System.DivideByZeroException
+2020-09-18 18:39:13.5430 ERROR se profujo System.DivideByZeroException
+ Attempted to divide by zero.
+    at Ejercicio2.Program.Main(String[] args) in C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Ejercicio2\Program.cs:line 19
+ System.DivideByZeroException: Attempted to divide by zero.
+   at Ejercicio2.Program.Main(String[] args) in C:\Users\claud\Source\Repos\Taller2\tpnro2-claudioxx\TryCatch_ArmandoClaudio\Ejercicio2\Program.cs:line 19
+ 
+2020-09-18 18:39:49.1159 ERROR se profujo System.FormatException
+ 
+2020-09-18 18:39:53.8831 ERROR se profujo System.DivideByZeroException
+ 
+2020-09-18 18:43:47.8024 ERROR se profujo System.FormatException
+ 
+2020-09-18 18:43:51.9060 ERROR se profujo System.FormatException
+ 
+2020-09-18 18:43:56.6374 ERROR se profujo System.DivideByZeroException
+ 
+2020-09-18 18:44:11.4283 ERROR se profujo System.DivideByZeroException
+ 
+2020-09-18 18:44:41.7008 ERROR se profujo System.DivideByZeroException
+ 
+2020-09-18 18:44:50.7515 ERROR se profujo System.DivideByZeroException
+ 
+2020-09-18 18:45:11.4209 ERROR se profujo System.DivideByZeroException
+ 
+2020-09-18 18:45:56.3394 ERROR se profujo System.DivideByZeroException
+ 
