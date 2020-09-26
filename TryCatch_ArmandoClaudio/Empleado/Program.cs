@@ -12,9 +12,14 @@ namespace Empleado
 		static void Main(string[] args)
 		{
 			List<Empleado> empleados = new List<Empleado>();
+			Console.Write("Ingrese la cantidad de empleados a crear: ");
 			try
-			{				
-				empleados.Add(generarEmpleado());
+			{
+				int cantEmpleados = Convert.ToInt32(Console.ReadLine());
+				for (int i = 0; i < cantEmpleados; i++)
+				{
+					empleados.Add(generarEmpleado());
+				}
 			}
 			catch (Exception ex)
 			{
